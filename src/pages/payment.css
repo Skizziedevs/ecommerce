@@ -1,0 +1,62 @@
+.container {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+  }
+.form {
+    width: 450px;
+    height: 600px;
+   
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+    margin: 30px;
+    margin-top: 40px;
+  }
+  .title{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .input{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 5px;
+  }
+ .paynow{
+    border-radius: 3px;
+    background-color: #7dca56;
+    width: 70%;
+    height: 40px;
+    color: white;
+    border: none;
+    margin-top: 40px;
+    margin-left: 15%;
+  }
+  
+  .inputshorts{
+    width: 20%;
+  }
+  .div{
+    margin-top: 25px;
+  }
+  .inputexp{
+    width: 80%;
+  }
+  .div p{
+    margin-bottom: 0;
+    margin-left: 10%;
+   
+  }
+  .divi{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 30px;
+  }
+  .divi img{
+    margin-left: 11%;
+  }
+  
+ 

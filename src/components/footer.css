@@ -1,0 +1,51 @@
+.ontainer{
+    background-color: rgb(46, 45, 45);
+    margin-top: 20px;
+    font-size: 12px;
+}
+.backtt{
+    background-color: rgb(131, 130, 130);
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding-bottom:0.5px;
+    padding-top: 2px;
+}
+.container p{
+    cursor: pointer;
+}
+.lineone{
+    width: 70%;;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    color: white;
+    margin-left: 15%;
+}
+.linetwo{
+    width: 70%;;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    color: white;
+    margin-left: 15%;
+}
+.linethree{
+    width: 70%;;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 15%;
+    color: white;
+}
+.linefour{
+    width: 70%;;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    color: white;
+    margin-left: 15%;
+}
+
